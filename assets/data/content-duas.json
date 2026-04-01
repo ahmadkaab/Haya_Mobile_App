@@ -1,0 +1,94 @@
+{
+  "duas": [
+    {
+      "id": "urge_001",
+      "category": "urge_protection",
+      "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+      "transliteration": "A'udhu billahi min ash-shaytaan ir-rajeem",
+      "english": "I seek refuge in Allah from the accursed Shaytan",
+      "context": "Say this immediately when you feel the urge. It is the first shield.",
+      "source": "Quran 16:98"
+    },
+    {
+      "id": "urge_002",
+      "category": "urge_protection",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْفَوَاحِشِ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ",
+      "transliteration": "Allahumma inni a'udhu bika min al-fawahish ma zahara minha wa ma batan",
+      "english": "O Allah, I seek refuge in You from indecency — both what is apparent and what is hidden.",
+      "context": "A powerful dua specifically for protection from sin and indecency.",
+      "source": "Reported in Ibn Majah"
+    },
+    {
+      "id": "strength_001",
+      "category": "strength",
+      "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+      "transliteration": "Allahumma a'inni ala dhikrika wa shukrika wa husni ibadatika",
+      "english": "O Allah, help me to remember You, to be grateful to You, and to worship You well.",
+      "context": "Recite this every morning to begin the day with divine support.",
+      "source": "Abu Dawud, authenticated"
+    },
+    {
+      "id": "repentance_001",
+      "category": "repentance",
+      "arabic": "أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ إِلَيْهِ",
+      "transliteration": "Astaghfirullaha al-'Azim alladhi la ilaha illa huwa al-Hayyu al-Qayyumu wa atubu ilayh",
+      "english": "I seek forgiveness from Allah the Almighty, whom there is none worthy of worship except He, the Living, the Sustainer, and I repent to Him.",
+      "context": "The master dua for repentance (Sayyid al-Istighfar). Say this when you relapse.",
+      "source": "Bukhari"
+    },
+    {
+      "id": "repentance_002",
+      "category": "repentance",
+      "arabic": "رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+      "transliteration": "Rabbana zalamna anfusana wa in lam taghfir lana wa tarhamna lanakoonanna min al-khasireen",
+      "english": "Our Lord, we have wronged ourselves. If You do not forgive us and have mercy upon us, we will surely be among the losers.",
+      "context": "The dua of Prophet Adam and Hawwa — it acknowledges fault and seeks mercy. Use after relapse.",
+      "source": "Quran 7:23"
+    },
+    {
+      "id": "morning_001",
+      "category": "morning",
+      "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+      "transliteration": "Asbahna wa asbahal mulku lillah, wal hamdu lillah, la ilaha illallah wahdahu la shareeka lah",
+      "english": "We have entered the morning, and the sovereignty on this morning belongs to Allah. All praise is for Allah. None has the right to be worshipped except Allah alone.",
+      "context": "Say this first thing in the morning to start your day with remembrance of Allah.",
+      "source": "Abu Dawud"
+    },
+    {
+      "id": "protection_001",
+      "category": "urge_protection",
+      "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "transliteration": "Bismillahi alladhi la yadurru ma'a ismihi shay'un fil ardi wa la fis sama' wa huwa as-Sami' al-'Alim",
+      "english": "In the Name of Allah, with Whose name nothing can cause harm on earth or in heaven, and He is the All-Hearing, All-Knowing.",
+      "context": "Whoever says this 3 times in the morning and evening will not be harmed.",
+      "source": "Abu Dawud, Tirmidhi"
+    },
+    {
+      "id": "gratitude_001",
+      "category": "gratitude",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ",
+      "transliteration": "Alhamdulillahil-ladhi bi ni'matihi tatimmus-salihat",
+      "english": "Praise be to Allah by whose grace all good things are completed.",
+      "context": "Say this when you complete a day clean — it is an act of worship to thank Allah.",
+      "source": "Ibn Majah"
+    },
+    {
+      "id": "patience_001",
+      "category": "strength",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الصَّبْرَ",
+      "transliteration": "Allahumma inni as'alukas-sabr",
+      "english": "O Allah, I ask You for patience.",
+      "context": "Short, powerful, sincere. When the struggle is hard, this dua is enough.",
+      "source": "Reported by scholars of Islamic supplication"
+    },
+    {
+      "id": "anxiety_001",
+      "category": "anxiety_relief",
+      "arabic": "لَا إِلَهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+      "transliteration": "La ilaha illa anta subhanaka inni kuntu min az-zalimin",
+      "english": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.",
+      "context": "The dua of Prophet Yunus from the belly of the whale. For moments of feeling trapped.",
+      "source": "Quran 21:87"
+    }
+  ]
+}
